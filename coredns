@@ -1,2 +1,0 @@
-#代理gcr.io上的k8s镜像
-FROM k8s.gcr.io/coredns:1.2.6
