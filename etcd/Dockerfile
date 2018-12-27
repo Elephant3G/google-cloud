@@ -1,2 +1,1 @@
-#代理gcr.io上的k8s镜像
 FROM gcr.io/google-containers/etcd:3.2.24
